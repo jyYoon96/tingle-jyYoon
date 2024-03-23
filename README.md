@@ -52,34 +52,45 @@
 - 스타의 카테고리별로 스타 조회
 
 #### 2. 스타 페이지 
+##### 2-1. 홈
 ![Fan Page](/image/starpage2.PNG)
 - 홈, 스냅샷, 위시, 스토어, 팬미팅 페이지
 - 홈화면에서 프로필 꾸미기 가능
+##### 2-2. 스냅샷
 ![Star Page](/image/snap1.gif)
 - 스냅샷을 확인하고 좋아요, 댓글, 삭제 가능
+##### 2-3. 위시
 ![Star Page](/image/wish2.PNG)
 - 위시 페이지에서 팬이 올려놓은 위시를 선택해서 채택 가능
+##### 2-4. 스토어
 ![Star Page](/image/st1.gif)
 ![Star page](/image/st2.gif)
 - 스토어에서 스타가 판매할 상품을 올리고, 상품을 팬에게 보낼 수 있다.
+##### 2-5. 팬미팅
 ![Star Page](/image/meeting1.PNG)
 - 팬미팅룸을 만들고 팬미팅 티켓 판매 및 1:1 화상 통화로 팬미팅 가능
 
 #### 3. 팬 페이지
+##### 3-1. 홈
 - 본인의 프로필 정보 수정 가능
 ![Main Page](/image/starpage0.PNG)
 - 스타의 페이지로 이동 가능
 - 스타의 홈, 스냅샷, 위시, 스토어, 팬미팅 페이지 이동
 - 홈에서 스타가 작성한 프로필 확인 가능
+##### 3-2. 스냅샷
 ![Main Page](/image/snap1.gif)
 ![Main Page](/image/snap2.gif)
 - 스냅샷에 게시글을 작성하고, 댓글&좋아요로 팬&스타와 소통 가능
+##### 3-3. 위시
 ![Main Page](/image/wish1.PNG)
 - 위시에서 스타에게 원하는 것을 포인트를 걸고 소원으로 빌 수 있음. 다른 팬이 올린 위시에 좋아요 및 포인트 추가 가능
+
+##### 3-4. 스토어
 ![Main Page](/image/st3.gif)
 ![Main Page](/image/st4.gif)
 - 스토어에서 스타가 올려둔 상품을 구매 가능
 - 스타가 보내준 상품 보관함에 저장
+##### 3-5. 팬미팅
 ![Main Page](/image/meeting2.PNG)
 ![Main Page](/image/meeting3.PNG)
 ![Main Page](/image/meeting4.PNG)
